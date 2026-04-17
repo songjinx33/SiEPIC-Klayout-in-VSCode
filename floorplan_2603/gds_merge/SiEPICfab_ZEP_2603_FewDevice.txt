@@ -1,0 +1,454 @@
+% X-coord, Y-coord, Polarization, wavelength, type, deviceID, params 
+-5955, -5858, TE, 1550, device, Alignment, comment
+-5755, -5858, TE, 1310, device, Alignment, comment
+-5655, -5858, TE, 1310, device, AlignmentYBranch, comment
+-5855, -5858, TE, 1550, device, AlignmentYBranch, comment
+5655, -5858, TE, 1550, device, Alignment, comment
+5855, -5858, TE, 1310, device, Alignment, comment
+5955, -5858, TE, 1310, device, AlignmentYBranch, comment
+5755, -5858, TE, 1550, device, AlignmentYBranch, comment
+-5955, 5852, TE, 1550, device, Alignment, comment
+-5755, 5852, TE, 1310, device, Alignment, comment
+-5655, 5852, TE, 1310, device, AlignmentYBranch, comment
+-5855, 5852, TE, 1550, device, AlignmentYBranch, comment
+5655, 5852, TE, 1550, device, Alignment, comment
+5855, 5852, TE, 1310, device, Alignment, comment
+5955, 5852, TE, 1310, device, AlignmentYBranch, comment
+5755, 5852, TE, 1550, device, AlignmentYBranch, comment
+1814, 3190, TE, 1550, device, JSong, CascadedY, Yid7, 80N, rep1
+1160, 3936, TE, 1550, device, JSong, CascadedY, Yid3, 60N, rep1
+1114, 4309, TE, 1550, device, JSong, CascadedY, Yid1, 60N, rep1
+1678, 4309, TE, 1550, device, JSong, CascadedY, Yid1, 80N, rep1
+1748, 3750, TE, 1550, device, JSong, CascadedY, Yid4, 80N, rep1
+1163, 3750, TE, 1550, device, JSong, CascadedY, Yid4, 60N, rep1
+1170, 3563, TE, 1550, device, JSong, CascadedY, Yid5, 60N, rep1
+1210, 3190, TE, 1550, device, JSong, CascadedY, Yid7, 60N, rep1
+1829, 3004, TE, 1550, device, JSong, CascadedY, Yid8, 80N, rep1
+1743, 3936, TE, 1550, device, JSong, CascadedY, Yid3, 80N, rep1
+1221, 3004, TE, 1550, device, JSong, CascadedY, Yid8, 60N, rep1
+773, 3004, TE, 1550, device, JSong, CascadedY, Yid8, 40N, rep1
+1758, 3563, TE, 1550, device, JSong, CascadedY, Yid5, 80N, rep1
+2400, 4563, TE, 1550, device, JSong, CascadedY, GCloopbackRT1
+1758, 3377, TE, 1550, device, JSong, CascadedY, Yid6, 80N, rep1
+2475, 4563, TE, 1550, device, JSong, CascadedY, GCloopbackRT2
+1170, 3377, TE, 1550, device, JSong, CascadedY, Yid6, 60N, rep1
+766, 3190, TE, 1550, device, JSong, CascadedY, Yid7, 40N, rep1
+1737, 4122, TE, 1550, device, JSong, CascadedY, Yid2, 80N, rep1
+1156, 4122, TE, 1550, device, JSong, CascadedY, Yid2, 60N, rep1
+-216, 3190, TE, 1550, device, JSong, CascadedY, Yid7, 20N, rep1
+-658, 3190, TE, 1550, device, JSong, CascadedY, Yid7, 8N, rep1
+365, 3563, TE, 1550, device, JSong, CascadedY, Yid5, 32N, rep1
+-234, 4309, TE, 1550, device, JSong, CascadedY, Yid1, 20N, rep1
+36, 4309, TE, 1550, device, JSong, CascadedY, Yid1, 24N, rep1
+-815, 3377, TE, 1550, device, JSong, CascadedY, Yid6, 4N, rep1
+-966, 4563, TE, 1550, device, JSong, CascadedY, GCloopbackLT1
+390, 3004, TE, 1550, device, JSong, CascadedY, Yid8, 32N, rep1
+-815, 3563, TE, 1550, device, JSong, CascadedY, Yid5, 4N, rep1
+55, 3377, TE, 1550, device, JSong, CascadedY, Yid6, 24N, rep1
+-224, 3377, TE, 1550, device, JSong, CascadedY, Yid6, 20N, rep1
+-477, 4309, TE, 1550, device, JSong, CascadedY, Yid1, 16N, rep1
+729, 3936, TE, 1550, device, JSong, CascadedY, Yid3, 40N, rep1
+696, 4309, TE, 1550, device, JSong, CascadedY, Yid1, 40N, rep1
+55, 3563, TE, 1550, device, JSong, CascadedY, Yid5, 24N, rep1
+-473, 3936, TE, 1550, device, JSong, CascadedY, Yid3, 16N, rep1
+737, 3377, TE, 1550, device, JSong, CascadedY, Yid6, 40N, rep1
+-472, 3377, TE, 1550, device, JSong, CascadedY, Yid6, 16N, rep1
+337, 4309, TE, 1550, device, JSong, CascadedY, Yid1, 32N, rep1
+362, 3750, TE, 1550, device, JSong, CascadedY, Yid4, 32N, rep1
+-659, 3377, TE, 1550, device, JSong, CascadedY, Yid6, 8N, rep1
+-891, 4563, TE, 1550, device, JSong, CascadedY, GCloopbackLT2
+53, 3750, TE, 1550, device, JSong, CascadedY, Yid4, 24N, rep1
+-468, 3004, TE, 1550, device, JSong, CascadedY, Yid8, 16N, rep1
+-815, 3750, TE, 1550, device, JSong, CascadedY, Yid4, 4N, rep1
+-815, 3936, TE, 1550, device, JSong, CascadedY, Yid3, 4N, rep1
+737, 3563, TE, 1550, device, JSong, CascadedY, Yid5, 40N, rep1
+-226, 4122, TE, 1550, device, JSong, CascadedY, Yid2, 20N, rep1
+-473, 4122, TE, 1550, device, JSong, CascadedY, Yid2, 16N, rep1
+732, 3750, TE, 1550, device, JSong, CascadedY, Yid4, 40N, rep1
+360, 3936, TE, 1550, device, JSong, CascadedY, Yid3, 32N, rep1
+-658, 3004, TE, 1550, device, JSong, CascadedY, Yid8, 8N, rep1
+-815, 3004, TE, 1550, device, JSong, CascadedY, Yid8, 4N, rep1
+-659, 3563, TE, 1550, device, JSong, CascadedY, Yid5, 8N, rep1
+51, 3936, TE, 1550, device, JSong, CascadedY, Yid3, 24N, rep1
+-815, 4122, TE, 1550, device, JSong, CascadedY, Yid2, 4N, rep1
+-473, 3750, TE, 1550, device, JSong, CascadedY, Yid4, 16N, rep1
+-214, 3004, TE, 1550, device, JSong, CascadedY, Yid8, 20N, rep1
+-815, 3190, TE, 1550, device, JSong, CascadedY, Yid7, 4N, rep1
+68, 3190, TE, 1550, device, JSong, CascadedY, Yid7, 24N, rep1
+72, 3004, TE, 1550, device, JSong, CascadedY, Yid8, 24N, rep1
+-659, 3936, TE, 1550, device, JSong, CascadedY, Yid3, 8N, rep1
+50, 4122, TE, 1550, device, JSong, CascadedY, Yid2, 24N, rep1
+358, 4122, TE, 1550, device, JSong, CascadedY, Yid2, 32N, rep1
+727, 4122, TE, 1550, device, JSong, CascadedY, Yid2, 40N, rep1
+-659, 3750, TE, 1550, device, JSong, CascadedY, Yid4, 8N, rep1
+-815, 4309, TE, 1550, device, JSong, CascadedY, Yid1, 4N, rep1
+-661, 4309, TE, 1550, device, JSong, CascadedY, Yid1, 8N, rep1
+-472, 3563, TE, 1550, device, JSong, CascadedY, Yid5, 16N, rep1
+-224, 3563, TE, 1550, device, JSong, CascadedY, Yid5, 20N, rep1
+-225, 3750, TE, 1550, device, JSong, CascadedY, Yid4, 20N, rep1
+-660, 4122, TE, 1550, device, JSong, CascadedY, Yid2, 8N, rep1
+-469, 3190, TE, 1550, device, JSong, CascadedY, Yid7, 16N, rep1
+-226, 3936, TE, 1550, device, JSong, CascadedY, Yid3, 20N, rep1
+385, 3190, TE, 1550, device, JSong, CascadedY, Yid7, 32N, rep1
+365, 3377, TE, 1550, device, JSong, CascadedY, Yid6, 32N, rep1
+390, 1513, TE, 1550, device, JSong, CascadedY, Yid8, 32N, rep2
+362, 2258, TE, 1550, device, JSong, CascadedY, Yid4, 32N, rep2
+-226, 2445, TE, 1550, device, JSong, CascadedY, Yid3, 20N, rep2
+-469, 1699, TE, 1550, device, JSong, CascadedY, Yid7, 16N, rep2
+72, 1513, TE, 1550, device, JSong, CascadedY, Yid8, 24N, rep2
+-234, 2818, TE, 1550, device, JSong, CascadedY, Yid1, 20N, rep2
+-473, 2258, TE, 1550, device, JSong, CascadedY, Yid4, 16N, rep2
+-659, 2072, TE, 1550, device, JSong, CascadedY, Yid5, 8N, rep2
+-891, 1263, TE, 1550, device, JSong, CascadedY, GCloopbackLB2
+-658, 1699, TE, 1550, device, JSong, CascadedY, Yid7, 8N, rep2
+-815, 2818, TE, 1550, device, JSong, CascadedY, Yid1, 4N, rep2
+732, 2258, TE, 1550, device, JSong, CascadedY, Yid4, 40N, rep2
+696, 2818, TE, 1550, device, JSong, CascadedY, Yid1, 40N, rep2
+-659, 2445, TE, 1550, device, JSong, CascadedY, Yid3, 8N, rep2
+365, 1886, TE, 1550, device, JSong, CascadedY, Yid6, 32N, rep2
+-966, 1263, TE, 1550, device, JSong, CascadedY, GCloopbackLB1
+-473, 2445, TE, 1550, device, JSong, CascadedY, Yid3, 16N, rep2
+-225, 2258, TE, 1550, device, JSong, CascadedY, Yid4, 20N, rep2
+729, 2445, TE, 1550, device, JSong, CascadedY, Yid3, 40N, rep2
+-658, 1513, TE, 1550, device, JSong, CascadedY, Yid8, 8N, rep2
+-815, 1699, TE, 1550, device, JSong, CascadedY, Yid7, 4N, rep2
+53, 2258, TE, 1550, device, JSong, CascadedY, Yid4, 24N, rep2
+-815, 2258, TE, 1550, device, JSong, CascadedY, Yid4, 4N, rep2
+36, 2818, TE, 1550, device, JSong, CascadedY, Yid1, 24N, rep2
+337, 2818, TE, 1550, device, JSong, CascadedY, Yid1, 32N, rep2
+-815, 2631, TE, 1550, device, JSong, CascadedY, Yid2, 4N, rep2
+-660, 2631, TE, 1550, device, JSong, CascadedY, Yid2, 8N, rep2
+-473, 2631, TE, 1550, device, JSong, CascadedY, Yid2, 16N, rep2
+-226, 2631, TE, 1550, device, JSong, CascadedY, Yid2, 20N, rep2
+-815, 2445, TE, 1550, device, JSong, CascadedY, Yid3, 4N, rep2
+51, 2445, TE, 1550, device, JSong, CascadedY, Yid3, 24N, rep2
+360, 2445, TE, 1550, device, JSong, CascadedY, Yid3, 32N, rep2
+-472, 2072, TE, 1550, device, JSong, CascadedY, Yid5, 16N, rep2
+-659, 2258, TE, 1550, device, JSong, CascadedY, Yid4, 8N, rep2
+55, 2072, TE, 1550, device, JSong, CascadedY, Yid5, 24N, rep2
+55, 1886, TE, 1550, device, JSong, CascadedY, Yid6, 24N, rep2
+365, 2072, TE, 1550, device, JSong, CascadedY, Yid5, 32N, rep2
+737, 2072, TE, 1550, device, JSong, CascadedY, Yid5, 40N, rep2
+-477, 2818, TE, 1550, device, JSong, CascadedY, Yid1, 16N, rep2
+-815, 1886, TE, 1550, device, JSong, CascadedY, Yid6, 4N, rep2
+-659, 1886, TE, 1550, device, JSong, CascadedY, Yid6, 8N, rep2
+727, 2631, TE, 1550, device, JSong, CascadedY, Yid2, 40N, rep2
+-224, 1886, TE, 1550, device, JSong, CascadedY, Yid6, 20N, rep2
+68, 1699, TE, 1550, device, JSong, CascadedY, Yid7, 24N, rep2
+-224, 2072, TE, 1550, device, JSong, CascadedY, Yid5, 20N, rep2
+737, 1886, TE, 1550, device, JSong, CascadedY, Yid6, 40N, rep2
+-472, 1886, TE, 1550, device, JSong, CascadedY, Yid6, 16N, rep2
+-216, 1699, TE, 1550, device, JSong, CascadedY, Yid7, 20N, rep2
+50, 2631, TE, 1550, device, JSong, CascadedY, Yid2, 24N, rep2
+385, 1699, TE, 1550, device, JSong, CascadedY, Yid7, 32N, rep2
+-815, 2072, TE, 1550, device, JSong, CascadedY, Yid5, 4N, rep2
+-815, 1513, TE, 1550, device, JSong, CascadedY, Yid8, 4N, rep2
+358, 2631, TE, 1550, device, JSong, CascadedY, Yid2, 32N, rep2
+-661, 2818, TE, 1550, device, JSong, CascadedY, Yid1, 8N, rep2
+-468, 1513, TE, 1550, device, JSong, CascadedY, Yid8, 16N, rep2
+-214, 1513, TE, 1550, device, JSong, CascadedY, Yid8, 20N, rep2
+1814, 1699, TE, 1550, device, JSong, CascadedY, Yid7, 80N, rep2
+1743, 2445, TE, 1550, device, JSong, CascadedY, Yid3, 80N, rep2
+1678, 2818, TE, 1550, device, JSong, CascadedY, Yid1, 80N, rep2
+1156, 2631, TE, 1550, device, JSong, CascadedY, Yid2, 60N, rep2
+1221, 1513, TE, 1550, device, JSong, CascadedY, Yid8, 60N, rep2
+1210, 1699, TE, 1550, device, JSong, CascadedY, Yid7, 60N, rep2
+1737, 2631, TE, 1550, device, JSong, CascadedY, Yid2, 80N, rep2
+2400, 1263, TE, 1550, device, JSong, CascadedY, GCloopbackRB1
+1114, 2818, TE, 1550, device, JSong, CascadedY, Yid1, 60N, rep2
+2475, 1263, TE, 1550, device, JSong, CascadedY, GCloopbackRB2
+766, 1699, TE, 1550, device, JSong, CascadedY, Yid7, 40N, rep2
+1758, 2072, TE, 1550, device, JSong, CascadedY, Yid5, 80N, rep2
+1170, 2072, TE, 1550, device, JSong, CascadedY, Yid5, 60N, rep2
+1758, 1886, TE, 1550, device, JSong, CascadedY, Yid6, 80N, rep2
+1829, 1513, TE, 1550, device, JSong, CascadedY, Yid8, 80N, rep2
+1163, 2258, TE, 1550, device, JSong, CascadedY, Yid4, 60N, rep2
+1748, 2258, TE, 1550, device, JSong, CascadedY, Yid4, 80N, rep2
+773, 1513, TE, 1550, device, JSong, CascadedY, Yid8, 40N, rep2
+1170, 1886, TE, 1550, device, JSong, CascadedY, Yid6, 60N, rep2
+1160, 2445, TE, 1550, device, JSong, CascadedY, Yid3, 60N, rep2
+-1560, 5852, TE, 1550, device, Alignment, comment
+-1460, 5852, TE, 1550, device, AlignmentYBranch, comment
+1160, -2736, TE, 1550, device, JSong, SingleDropRing, GCloopbackRB2
+807, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2475, rep2
+1160, 713, TE, 1550, device, JSong, SingleDropRing, GCloopbackRT2
+591, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2425, rep2
+158, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2325, rep2
+-707, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2125, rep2
+699, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2450, rep2
+591, 713, TE, 1550, device, JSong, SingleDropRing, R10gap425, rep1
+-707, 272, TE, 1550, device, JSong, SingleDropRing, R10gap125, rep2
+374, 272, TE, 1550, device, JSong, SingleDropRing, R10gap375, rep2
+807, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2475, rep2
+-166, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2250, rep2
+-599, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2150, rep2
+915, 272, TE, 1550, device, JSong, SingleDropRing, R10gap500, rep2
+482, 713, TE, 1550, device, JSong, SingleDropRing, R10gap400, rep1
+158, 713, TE, 1550, device, JSong, SingleDropRing, R10gap325, rep1
+-891, 713, TE, 1550, device, JSong, SingleDropRing, GCloopbackLT2
+374, 713, TE, 1550, device, JSong, SingleDropRing, R10gap375, rep1
+915, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2500, rep2
+266, 713, TE, 1550, device, JSong, SingleDropRing, R10gap350, rep1
+49, 713, TE, 1550, device, JSong, SingleDropRing, R10gap300, rep1
+1085, -2736, TE, 1550, device, JSong, SingleDropRing, GCloopbackRB1
+915, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2500, rep2
+-599, 713, TE, 1550, device, JSong, SingleDropRing, R10gap150, rep1
+699, 713, TE, 1550, device, JSong, SingleDropRing, R10gap450, rep1
+482, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2400, rep2
+-599, 272, TE, 1550, device, JSong, SingleDropRing, R10gap150, rep2
+-58, 272, TE, 1550, device, JSong, SingleDropRing, R10gap275, rep2
+-815, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2100, rep2
+-966, 713, TE, 1550, device, JSong, SingleDropRing, GCloopbackLT1
+-491, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2175, rep2
+266, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2350, rep2
+374, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2375, rep2
+-891, -2736, TE, 1550, device, JSong, SingleDropRing, GCloopbackLB2
+482, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2400, rep2
+-707, 713, TE, 1550, device, JSong, SingleDropRing, R10gap125, rep1
+-166, 713, TE, 1550, device, JSong, SingleDropRing, R10gap250, rep1
+-815, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2100, rep2
+-274, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2225, rep2
+49, 272, TE, 1550, device, JSong, SingleDropRing, R10gap300, rep2
+-815, 713, TE, 1550, device, JSong, SingleDropRing, R10gap100, rep1
+158, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2325, rep2
+807, 713, TE, 1550, device, JSong, SingleDropRing, R10gap475, rep1
+915, 713, TE, 1550, device, JSong, SingleDropRing, R10gap500, rep1
+699, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2450, rep2
+-382, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2200, rep2
+-58, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2275, rep2
+266, 272, TE, 1550, device, JSong, SingleDropRing, R10gap350, rep2
+-382, 713, TE, 1550, device, JSong, SingleDropRing, R10gap200, rep1
+-815, 272, TE, 1550, device, JSong, SingleDropRing, R10gap100, rep2
+-966, -2736, TE, 1550, device, JSong, SingleDropRing, GCloopbackLB1
+-58, 713, TE, 1550, device, JSong, SingleDropRing, R10gap275, rep1
+158, 272, TE, 1550, device, JSong, SingleDropRing, R10gap325, rep2
+-58, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2275, rep2
+-491, 272, TE, 1550, device, JSong, SingleDropRing, R10gap175, rep2
+-599, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2150, rep2
+-382, 272, TE, 1550, device, JSong, SingleDropRing, R10gap200, rep2
+-274, 272, TE, 1550, device, JSong, SingleDropRing, R10gap225, rep2
+-491, 713, TE, 1550, device, JSong, SingleDropRing, R10gap175, rep1
+-166, 272, TE, 1550, device, JSong, SingleDropRing, R10gap250, rep2
+591, 272, TE, 1550, device, JSong, SingleDropRing, R10gap425, rep2
+-491, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2175, rep2
+-274, 713, TE, 1550, device, JSong, SingleDropRing, R10gap225, rep1
+-166, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2250, rep2
+699, 272, TE, 1550, device, JSong, SingleDropRing, R10gap450, rep2
+49, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2300, rep2
+-382, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2200, rep2
+807, 272, TE, 1550, device, JSong, SingleDropRing, R10gap475, rep2
+591, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2425, rep2
+1085, 713, TE, 1550, device, JSong, SingleDropRing, GCloopbackRT1
+482, 272, TE, 1550, device, JSong, SingleDropRing, R10gap400, rep2
+-707, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2125, rep2
+49, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2300, rep2
+-274, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2225, rep2
+374, -607, TE, 1550, device, JSong, SingleDropRing, R10gap1300gap2375, rep2
+266, -167, TE, 1550, device, JSong, SingleDropRing, R10gap1200gap2350, rep2
+-1400, 4563, TE, 1550, device, JSong, SingleY, GCloopbackRT1
+-2408, 3809, TE, 1550, device, JSong, SingleY, YsplD3Single, rep6
+-3112, 3809, TE, 1550, device, JSong, SingleY, YsplD6Single, rep5
+-3675, 3809, TE, 1550, device, JSong, SingleY, YsplD2Single, rep5
+-1986, 3809, TE, 1550, device, JSong, SingleY, YsplD6Single, rep6
+-1986, 4122, TE, 1550, device, JSong, SingleY, YsplD6Single, rep4
+-2972, 3809, TE, 1550, device, JSong, SingleY, YsplD7Single, rep5
+-2127, 4122, TE, 1550, device, JSong, SingleY, YsplD5Single, rep4
+-2267, 4122, TE, 1550, device, JSong, SingleY, YsplD4Single, rep4
+-2972, 4122, TE, 1550, device, JSong, SingleY, YsplD7Single, rep3
+-2830, 4122, TE, 1550, device, JSong, SingleY, YsplD8Single, rep3
+-3112, 4122, TE, 1550, device, JSong, SingleY, YsplD6Single, rep3
+-3253, 4122, TE, 1550, device, JSong, SingleY, YsplD5Single, rep3
+-2549, 4122, TE, 1550, device, JSong, SingleY, YsplD2Single, rep4
+-3394, 4122, TE, 1550, device, JSong, SingleY, YsplD4Single, rep3
+-3535, 4122, TE, 1550, device, JSong, SingleY, YsplD3Single, rep3
+-3675, 4122, TE, 1550, device, JSong, SingleY, YsplD2Single, rep3
+-2689, 3809, TE, 1550, device, JSong, SingleY, YsplD1Single, rep6
+-3394, 3809, TE, 1550, device, JSong, SingleY, YsplD4Single, rep5
+-3535, 4436, TE, 1550, device, JSong, SingleY, YsplD3Single, rep1
+-1845, 4122, TE, 1550, device, JSong, SingleY, YsplD7Single, rep4
+-2830, 3809, TE, 1550, device, JSong, SingleY, YsplD8Single, rep5
+-3966, 4563, TE, 1550, device, JSong, SingleY, GCloopbackLT1
+-2549, 3809, TE, 1550, device, JSong, SingleY, YsplD2Single, rep6
+-3815, 4122, TE, 1550, device, JSong, SingleY, YsplD1Single, rep3
+-1703, 4436, TE, 1550, device, JSong, SingleY, YsplD8Single, rep2
+-3675, 4436, TE, 1550, device, JSong, SingleY, YsplD2Single, rep1
+-2267, 3809, TE, 1550, device, JSong, SingleY, YsplD4Single, rep6
+-2267, 4436, TE, 1550, device, JSong, SingleY, YsplD4Single, rep2
+-3891, 2863, TE, 1550, device, JSong, SingleY, GCloopbackLB2
+-2689, 4436, TE, 1550, device, JSong, SingleY, YsplD1Single, rep2
+-1324, 2863, TE, 1550, device, JSong, SingleY, GCloopbackRB2
+-2127, 3809, TE, 1550, device, JSong, SingleY, YsplD5Single, rep6
+-3253, 4436, TE, 1550, device, JSong, SingleY, YsplD5Single, rep1
+-3394, 4436, TE, 1550, device, JSong, SingleY, YsplD4Single, rep1
+-3891, 4563, TE, 1550, device, JSong, SingleY, GCloopbackLT2
+-3815, 4436, TE, 1550, device, JSong, SingleY, YsplD1Single, rep1
+-1703, 3809, TE, 1550, device, JSong, SingleY, YsplD8Single, rep6
+-3253, 3809, TE, 1550, device, JSong, SingleY, YsplD5Single, rep5
+-1400, 2863, TE, 1550, device, JSong, SingleY, GCloopbackRB1
+-2549, 4436, TE, 1550, device, JSong, SingleY, YsplD2Single, rep2
+-1703, 4122, TE, 1550, device, JSong, SingleY, YsplD8Single, rep4
+-3535, 3809, TE, 1550, device, JSong, SingleY, YsplD3Single, rep5
+-2689, 4122, TE, 1550, device, JSong, SingleY, YsplD1Single, rep4
+-2972, 4436, TE, 1550, device, JSong, SingleY, YsplD7Single, rep1
+-2830, 4436, TE, 1550, device, JSong, SingleY, YsplD8Single, rep1
+-2408, 4122, TE, 1550, device, JSong, SingleY, YsplD3Single, rep4
+-3815, 3809, TE, 1550, device, JSong, SingleY, YsplD1Single, rep5
+-2408, 4436, TE, 1550, device, JSong, SingleY, YsplD3Single, rep2
+-2127, 4436, TE, 1550, device, JSong, SingleY, YsplD5Single, rep2
+-3112, 4436, TE, 1550, device, JSong, SingleY, YsplD6Single, rep1
+-3966, 2863, TE, 1550, device, JSong, SingleY, GCloopbackLB1
+-1986, 4436, TE, 1550, device, JSong, SingleY, YsplD6Single, rep2
+-1324, 4563, TE, 1550, device, JSong, SingleY, GCloopbackRT2
+-1845, 3809, TE, 1550, device, JSong, SingleY, YsplD7Single, rep6
+-1845, 4436, TE, 1550, device, JSong, SingleY, YsplD7Single, rep2
+-2004, 2336, TE, 1550, device, JSong, LadderY, Yspid2Ladder5, rep1
+-1560, 2463, TE, 1550, device, JSong, LadderY, GCloopbackRT1
+-1484, 2463, TE, 1550, device, JSong, LadderY, GCloopbackRT2
+-2004, 2022, TE, 1550, device, JSong, LadderY, Yspid4Ladder5, rep1
+-2448, 2336, TE, 1550, device, JSong, LadderY, Yspid2Ladder3, rep1
+-2448, 2022, TE, 1550, device, JSong, LadderY, Yspid4Ladder3, rep1
+-2645, 2336, TE, 1550, device, JSong, LadderY, Yspid2Ladder2, rep1
+-2645, 2022, TE, 1550, device, JSong, LadderY, Yspid4Ladder2, rep1
+-2234, 2336, TE, 1550, device, JSong, LadderY, Yspid2Ladder4, rep1
+-2234, 2022, TE, 1550, device, JSong, LadderY, Yspid4Ladder4, rep1
+-2448, 1396, TE, 1550, device, JSong, LadderY, Yspid8Ladder3, rep1
+-2645, 1709, TE, 1550, device, JSong, LadderY, Yspid6Ladder2, rep1
+-2234, 1396, TE, 1550, device, JSong, LadderY, Yspid8Ladder4, rep1
+-2645, 1396, TE, 1550, device, JSong, LadderY, Yspid8Ladder2, rep1
+-2448, 1709, TE, 1550, device, JSong, LadderY, Yspid6Ladder3, rep1
+-2234, 1709, TE, 1550, device, JSong, LadderY, Yspid6Ladder4, rep1
+-2004, 1709, TE, 1550, device, JSong, LadderY, Yspid6Ladder5, rep1
+-2004, 1396, TE, 1550, device, JSong, LadderY, Yspid8Ladder5, rep1
+-2787, 2022, TE, 1550, device, JSong, LadderY, Yspid4Ladder1, rep1
+-3033, 2336, TE, 1550, device, JSong, LadderY, Yspid1Ladder5, rep1
+-3033, 2022, TE, 1550, device, JSong, LadderY, Yspid3Ladder5, rep1
+-3263, 2336, TE, 1550, device, JSong, LadderY, Yspid1Ladder4, rep1
+-3263, 2022, TE, 1550, device, JSong, LadderY, Yspid3Ladder4, rep1
+-2787, 2336, TE, 1550, device, JSong, LadderY, Yspid2Ladder1, rep1
+-3674, 2336, TE, 1550, device, JSong, LadderY, Yspid1Ladder2, rep1
+-3815, 2336, TE, 1550, device, JSong, LadderY, Yspid1Ladder1, rep1
+-3674, 2022, TE, 1550, device, JSong, LadderY, Yspid3Ladder2, rep1
+-3966, 2463, TE, 1550, device, JSong, LadderY, GCloopbackLT1
+-3476, 2336, TE, 1550, device, JSong, LadderY, Yspid1Ladder3, rep1
+-3815, 2022, TE, 1550, device, JSong, LadderY, Yspid3Ladder1, rep1
+-3476, 2022, TE, 1550, device, JSong, LadderY, Yspid3Ladder3, rep1
+-3891, 2463, TE, 1550, device, JSong, LadderY, GCloopbackLT2
+-3815, 1396, TE, 1550, device, JSong, LadderY, Yspid7Ladder1, rep1
+-3674, 1396, TE, 1550, device, JSong, LadderY, Yspid7Ladder2, rep1
+-3476, 1396, TE, 1550, device, JSong, LadderY, Yspid7Ladder3, rep1
+-3815, 1709, TE, 1550, device, JSong, LadderY, Yspid5Ladder1, rep1
+-3674, 1709, TE, 1550, device, JSong, LadderY, Yspid5Ladder2, rep1
+-3476, 1709, TE, 1550, device, JSong, LadderY, Yspid5Ladder3, rep1
+-3263, 1709, TE, 1550, device, JSong, LadderY, Yspid5Ladder4, rep1
+-3033, 1709, TE, 1550, device, JSong, LadderY, Yspid5Ladder5, rep1
+-2787, 1396, TE, 1550, device, JSong, LadderY, Yspid8Ladder1, rep1
+-3033, 1396, TE, 1550, device, JSong, LadderY, Yspid7Ladder5, rep1
+-3263, 1396, TE, 1550, device, JSong, LadderY, Yspid7Ladder4, rep1
+-2787, 1709, TE, 1550, device, JSong, LadderY, Yspid6Ladder1, rep1
+-3815, 1082, TE, 1550, device, JSong, LadderY, Yspid1Ladder1, rep2
+-3476, 455, TE, 1550, device, JSong, LadderY, Yspid5Ladder3, rep2
+-2787, 142, TE, 1550, device, JSong, LadderY, Yspid8Ladder1, rep2
+-3263, 142, TE, 1550, device, JSong, LadderY, Yspid7Ladder4, rep2
+-3476, 142, TE, 1550, device, JSong, LadderY, Yspid7Ladder3, rep2
+-3815, 142, TE, 1550, device, JSong, LadderY, Yspid7Ladder1, rep2
+-3674, 455, TE, 1550, device, JSong, LadderY, Yspid5Ladder2, rep2
+-2787, 769, TE, 1550, device, JSong, LadderY, Yspid4Ladder1, rep2
+-3033, 769, TE, 1550, device, JSong, LadderY, Yspid3Ladder5, rep2
+-2787, 1082, TE, 1550, device, JSong, LadderY, Yspid2Ladder1, rep2
+-3674, 1082, TE, 1550, device, JSong, LadderY, Yspid1Ladder2, rep2
+-3815, 769, TE, 1550, device, JSong, LadderY, Yspid3Ladder1, rep2
+-3476, 769, TE, 1550, device, JSong, LadderY, Yspid3Ladder3, rep2
+-3815, 455, TE, 1550, device, JSong, LadderY, Yspid5Ladder1, rep2
+-3263, 769, TE, 1550, device, JSong, LadderY, Yspid3Ladder4, rep2
+-3966, -236, TE, 1550, device, JSong, LadderY, GCloopbackLB1
+-3263, 1082, TE, 1550, device, JSong, LadderY, Yspid1Ladder4, rep2
+-3033, 142, TE, 1550, device, JSong, LadderY, Yspid7Ladder5, rep2
+-3891, -236, TE, 1550, device, JSong, LadderY, GCloopbackLB2
+-3674, 142, TE, 1550, device, JSong, LadderY, Yspid7Ladder2, rep2
+-3476, 1082, TE, 1550, device, JSong, LadderY, Yspid1Ladder3, rep2
+-3033, 455, TE, 1550, device, JSong, LadderY, Yspid5Ladder5, rep2
+-3674, 769, TE, 1550, device, JSong, LadderY, Yspid3Ladder2, rep2
+-3033, 1082, TE, 1550, device, JSong, LadderY, Yspid1Ladder5, rep2
+-3263, 455, TE, 1550, device, JSong, LadderY, Yspid5Ladder4, rep2
+-2787, 455, TE, 1550, device, JSong, LadderY, Yspid6Ladder1, rep2
+-2004, 769, TE, 1550, device, JSong, LadderY, Yspid4Ladder5, rep2
+-2004, 1082, TE, 1550, device, JSong, LadderY, Yspid2Ladder5, rep2
+-2234, 455, TE, 1550, device, JSong, LadderY, Yspid6Ladder4, rep2
+-2448, 769, TE, 1550, device, JSong, LadderY, Yspid4Ladder3, rep2
+-2448, 1082, TE, 1550, device, JSong, LadderY, Yspid2Ladder3, rep2
+-2448, 455, TE, 1550, device, JSong, LadderY, Yspid6Ladder3, rep2
+-2234, 769, TE, 1550, device, JSong, LadderY, Yspid4Ladder4, rep2
+-2004, 142, TE, 1550, device, JSong, LadderY, Yspid8Ladder5, rep2
+-1484, -236, TE, 1550, device, JSong, LadderY, GCloopbackRB2
+-2234, 142, TE, 1550, device, JSong, LadderY, Yspid8Ladder4, rep2
+-1560, -236, TE, 1550, device, JSong, LadderY, GCloopbackRB1
+-2448, 142, TE, 1550, device, JSong, LadderY, Yspid8Ladder3, rep2
+-2645, 142, TE, 1550, device, JSong, LadderY, Yspid8Ladder2, rep2
+-2645, 455, TE, 1550, device, JSong, LadderY, Yspid6Ladder2, rep2
+-2645, 1082, TE, 1550, device, JSong, LadderY, Yspid2Ladder2, rep2
+-2645, 769, TE, 1550, device, JSong, LadderY, Yspid4Ladder2, rep2
+-2004, 455, TE, 1550, device, JSong, LadderY, Yspid6Ladder5, rep2
+-2234, 1082, TE, 1550, device, JSong, LadderY, Yspid2Ladder4, rep2
+-2832, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap325, rep1
+-2192, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap475, rep1
+-3378, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap200, rep1
+-2300, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap450, rep1
+-2286, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap450, rep1
+-2517, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap400, rep1
+-3488, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap175, rep1
+-3269, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap225, rep1
+-2408, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap425, rep1
+-2625, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap375, rep1
+-2841, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap325, rep1
+-2950, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap300, rep1
+-2395, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap425, rep1
+-3166, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap250, rep1
+-1915, -736, TE, 1550, device, JSong, SinglePassRing, GCloopbackRT1
+-3160, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap250, rep1
+-3382, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap200, rep1
+-3599, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap150, rep1
+-2505, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap400, rep1
+-2743, -990, TE, 1550, device, JSong, SinglePassRing, R9gap350, rep1
+-3708, -990, TE, 1550, device, JSong, SinglePassRing, R9gap125, rep1
+-3386, -990, TE, 1550, device, JSong, SinglePassRing, R9gap200, rep1
+-3707, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap125, rep1
+-2958, -990, TE, 1550, device, JSong, SinglePassRing, R9gap300, rep1
+-3815, -990, TE, 1550, device, JSong, SinglePassRing, R9gap100, rep1
+-2068, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap500, rep1
+-3891, -736, TE, 1550, device, JSong, SinglePassRing, GCloopbackLT2
+-2723, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap350, rep1
+-2177, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap475, rep1
+-2850, -990, TE, 1550, device, JSong, SinglePassRing, R9gap325, rep1
+-2636, -990, TE, 1550, device, JSong, SinglePassRing, R9gap375, rep1
+-3279, -990, TE, 1550, device, JSong, SinglePassRing, R9gap225, rep1
+-3706, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap125, rep1
+-1839, -2736, TE, 1550, device, JSong, SinglePassRing, GCloopbackRB2
+-3891, -2736, TE, 1550, device, JSong, SinglePassRing, GCloopbackLB2
+-2733, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap350, rep1
+-3058, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap275, rep1
+-1915, -2736, TE, 1550, device, JSong, SinglePassRing, GCloopbackRB1
+-3051, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap275, rep1
+-3966, -2736, TE, 1550, device, JSong, SinglePassRing, GCloopbackLB1
+-3815, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap100, rep1
+-3966, -736, TE, 1550, device, JSong, SinglePassRing, GCloopbackLT1
+-3494, -990, TE, 1550, device, JSong, SinglePassRing, R9gap175, rep1
+-2421, -990, TE, 1550, device, JSong, SinglePassRing, R9gap425, rep1
+-3815, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap100, rep1
+-3172, -990, TE, 1550, device, JSong, SinglePassRing, R9gap250, rep1
+-3065, -990, TE, 1550, device, JSong, SinglePassRing, R9gap275, rep1
+-3597, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap150, rep1
+-2942, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap300, rep1
+-2207, -990, TE, 1550, device, JSong, SinglePassRing, R9gap475, rep1
+-3601, -990, TE, 1550, device, JSong, SinglePassRing, R9gap150, rep1
+-2614, -1363, TE, 1550, device, JSong, SinglePassRing, R11gap375, rep1
+-2314, -990, TE, 1550, device, JSong, SinglePassRing, R9gap450, rep1
+-3274, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap225, rep1
+-2529, -990, TE, 1550, device, JSong, SinglePassRing, R9gap400, rep1
+-3491, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap175, rep1
+-2084, -1177, TE, 1550, device, JSong, SinglePassRing, R10gap500, rep1
+-1839, -736, TE, 1550, device, JSong, SinglePassRing, GCloopbackRT2
+-2100, -990, TE, 1550, device, JSong, SinglePassRing, R9gap500, rep1
+
+% X-coord, Y-coord, deviceID, padName, params 
+
+% X-coord, Y-coord, recipeID, params 
